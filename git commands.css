@@ -1,0 +1,19 @@
+body{
+    background: orange;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    color: white;
+}
+
+.repeat{
+    color: #77fa90;
+}
+
+h2{
+    color: fuchsia;
+}
